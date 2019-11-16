@@ -1,0 +1,6 @@
+########## Function checklist ##########
+
+1. Did you start your function definition with def?
+2. Does you function only has characters and _ characters?
+3. Did you put an open parenthesis right after de function name?
+4. 
